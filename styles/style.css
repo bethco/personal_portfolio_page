@@ -5,7 +5,7 @@
 **    Author:     Bethany Cohen
 **    Contact:    <deskofbethany@gmail.com>
 **    GitHub:     https://github.com/bethco
-
+        TEST PASSED 
 ** 
 *****************************************************************************/
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&family=Roboto:wght@100&display=swap');
@@ -20,6 +20,7 @@ body {
     padding: 0;
 }
 
+header,
 #nav-bar {
     position: fixed;
 }
@@ -62,4 +63,9 @@ body {
         box-shadow: 0 0 5px black;
     }
 
-/* */
+/* 
+================================================
+        10/12 tests passing
+    get in there and make it pretty
+================================================
+*/

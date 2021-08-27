@@ -27,7 +27,10 @@ header,
 
 #welcome-section {
     height: 100vh;
-    background-color: bisque;
+    background-color: #ffe4c4;
+    background: linear-gradient(#ffe4c4, #8fc3fa);
+    background: -moz-linear-gradient(#ffe4c4, #8fc3fa);
+    background: -webkit-linear-gradient(#ffe4c4, #8fc3fa);
     text-align: center;
 }  
 
